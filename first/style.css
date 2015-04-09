@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height: 100%;
+	background-color: black;
+}
+
+.topStuff{
+	background-color: #3c3c3c;
+	height: 25%;
+	width: 100%;
+}
+.asideBox{
+	background-color: #c2c2c2;
+	float: left;
+	width: 20%;
+	height: 75%;
+}
+.content{
+	background-color: #d0d0d0;
+	width: 60%;
+	float: left;
+	height: 60%;
+}
+.bottomStuff{
+
+}
